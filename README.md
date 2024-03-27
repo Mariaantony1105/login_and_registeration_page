@@ -10,6 +10,7 @@ where I have done 4 modules register and login validation and account updation a
 <p>and here are the results.</p>
 
 <h1>registration page.</h1>
+
 ![Screenshot 2024-03-27 204230](https://github.com/Mariaantony1105/login_and_registeration_page/assets/87070959/ea4ca712-a74a-4d11-8fd7-c31b435dba98)
 
 <h1>login page and validation</h1>
