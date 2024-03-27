@@ -20,9 +20,11 @@ where I have done 4 modules register and login validation and account updation a
 
 
 <h1>account deletion</h1>
+
 ![Screenshot 2024-03-27 210614](https://github.com/Mariaantony1105/login_and_registeration_page/assets/87070959/d4de1e8a-0285-45bb-b524-b3d3d598015d)
 
 
 <h1>account updation</h1>
+
 ![Screenshot 2024-03-27 210632](https://github.com/Mariaantony1105/login_and_registeration_page/assets/87070959/e7dd60a4-412a-4fb0-aa41-1ede80711f54)
 
